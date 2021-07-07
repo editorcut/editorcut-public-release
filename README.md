@@ -1,0 +1,2 @@
+# editorcut-public-release
+updater
